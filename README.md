@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This ia a repository of Omsk Flutter Community.
+This ia a repository of Flutter Omsk Community.
